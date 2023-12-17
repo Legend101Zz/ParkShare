@@ -2,9 +2,7 @@
 
 ![Parking](https://media.istockphoto.com/id/1140967885/photo/a-view-from-above-to-the-ranks-of-head-in-parked-cars-end-to-end-parking-cruising-for-parking.jpg?s=612x612&w=0&k=20&c=JfY_78imfKplh_HU6aG21c9nC-3fGyyh0tR0ZV2Wi8g=)
 
-#Deployed at 
 
-https://parkshare.onrender.com && https://parkshare11.onrender.com/home
 
 #A brief about our project
 
